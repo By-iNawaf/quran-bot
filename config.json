@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN_HERE", // التوكن للبوت
+  "clientId": "ID_BOT", // ايدي البوت 
+  "guildId": "ID_SERVER", // ايدي السيرفر
+  "ownerId": "ID", // ايدي حسابك
+  "categoryName": "🕋 القرآن・الكريم",
+  "controlChannelName": "🕋・لوحة・التحكم",
+  "voiceChannelName": "🕋 استماع・للقرآن"
+}
